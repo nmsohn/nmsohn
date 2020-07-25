@@ -23,3 +23,5 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungleð
 - Python, PyTorch
 - Typescript
 - ReactJS, VueJS
+- AWS, Azure
+- Docker, Terraform
