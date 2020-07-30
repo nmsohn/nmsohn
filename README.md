@@ -25,3 +25,4 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungleð
 - ReactJS, VueJS, AngularJS
 - AWS, Azure
 - Docker, Terraform
+- Linux, emacs
