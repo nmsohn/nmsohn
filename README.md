@@ -20,9 +20,8 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle�
 
 ### 🌱 I’m currently learning
 - C#
-- Python, PyTorch
-- Typescript
+- Python (data science)
+- Typescript, NodeJS
 - ReactJS, VueJS, AngularJS
 - AWS, Azure
-- Docker, Terraform
-- Linux, emacs (Lisp)
+- Docker, Linux
