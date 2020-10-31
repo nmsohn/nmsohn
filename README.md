@@ -12,7 +12,7 @@
 - 
 -->
 
-Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle🏝' when crossing into commerce world. My LG laptop and I have been surviving through together. I am interested in OSS, cloud services, distributed computing and data science.
+Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle🏝' when crossing into commerce world. My LG laptop and I have been surviving through together. I am interested in cloud services, distributed computing and data science.
 
 ### 🔭 I’m currently working on
 - CBANZ
