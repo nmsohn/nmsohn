@@ -16,7 +16,7 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle�
 
 ### 🔭 I’m currently working on
 - WellyKorgis
-- 투두리스트 앱
+- Todo app
 
 ### 🌱 I’m currently learning
 - C#
