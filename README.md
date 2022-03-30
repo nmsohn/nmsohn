@@ -15,6 +15,8 @@
 Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in microservices, distributed computing and more cloud based solutions.
 
 ### 🔭 I’m currently working on
+- WellyKorgis
+- 투두리스트 앱
 
 ### 🌱 I’m currently learning
 - C#
