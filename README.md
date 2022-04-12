@@ -3,7 +3,6 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle�
 
 ### 🔭 I’m currently working on
 - WellyKorgis
-- Todo app
 
 ### 🔖I’m currently reading
 - 카이젠 저니 (아라이 타케시 저)
