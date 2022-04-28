@@ -12,9 +12,9 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle�
 
 ### 🌱 I’m currently learning
 - C#, Dotnet
-- Typescript, NodeJS, ReactJS
+- Typescript, NodeJS, ReactJS (👶)
 - Azure
-- Docker, Linux, Terraform
+- Docker, Linux, Terraform (👶)
 
 ### 📊 STATS
 
