@@ -7,7 +7,7 @@ Hi I am a developer based in Wellington NZ! I stumbled upon this 'coding jungle�
 - WellyKorgis
 
 ### 🔖 I’m currently reading
-- 시작하세요! 도커/쿠버네티스 (용찬호 저) 
+- Multiplayer Game Programming: Architecting Networked Games (Joshua L. Glazer and Sanjay Madhav)
 - Clean Code (Robert Cecil Martin)
 
 ### 🌱 I’m currently learning
