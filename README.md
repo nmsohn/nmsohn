@@ -20,4 +20,4 @@ Hi I am a developer based in Auckland NZ! I stumbled upon this 'coding jungleğŸ
 
 ![nmsohn's github stats](https://github-readme-stats.vercel.app/api?username=nmsohn&show_icons=true&theme=material-palenight)
 
-[![nmsohn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nmsohn&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![nmsohn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nmsohn&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
