@@ -4,7 +4,6 @@
 Hi I am a developer based in Auckland NZ! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in microservices, distributed computing and more cloud based solutions.
 
 ### 🔭 I’m currently working on
-- WellyKorgis
 
 ### 🔖 I’m currently reading
 - Multiplayer Game Programming: Architecting Networked Games (Joshua L. Glazer and Sanjay Madhav)
