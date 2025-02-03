@@ -4,14 +4,11 @@
 Hi I am a developer based in Korea! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in microservices, distributed computing and more cloud based solutions.
 
 ### 🔭 I’m currently working on
-- Todoffin
+- AI Bootcamp
 
 ### 🔖 I’m currently reading
-- 사용자의 마음을 움직이는 UX 디자인의 힘
 
 ### 🌱 I’m currently learning
-- Figma UX/UI design
-- Python, R for data analytics
 - C#, Dotnet
 - Typescript, NodeJS, ReactJS (👶)
 - Azure
