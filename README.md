@@ -4,7 +4,6 @@
 Hi I am a developer based in Korea! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in microservices, distributed computing and more cloud based solutions.
 
 ### 🔭 I’m currently working on
-- AI Bootcamp
 
 ### 🔖 I’m currently reading
 
