@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=nmsohn's%20github&descAlign=70.&descAlignY=44&fontColor=fff)
 
 ### Hi there 👋
-Hi I am a developer based in Korea! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in microservices, distributed computing and more cloud based solutions.
+Hi I am a developer based in New Zealand! I stumbled upon this 'coding jungle🏝' and have been surviving through. I am interested in distributed computing and more cloud based solutions.
 
 ### 🔭 I’m currently working on
 
